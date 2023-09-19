@@ -45,6 +45,8 @@
 [<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/github/github.png">][github]
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beratdemiir&show_icons=true&locale=en&layout=compact" alt="beratdemiir" /></p>
+<p>< img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=beratdemiir&show_icons=true&locale=en&layout=compact" alt = "beratdemiir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beratdemiir&show_icons=true&locale=en" alt="beratdemiir" /></p>
+<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=beratdemiir&show_icons=true&locale=en" alt = "beratdemiir" /></p>
+
+<p><img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=beratdemiir&" alt="beratdemiir" /></p>
